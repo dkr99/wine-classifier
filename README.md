@@ -1,2 +1,2 @@
 # wine-classifier
-Classifying Portugese Wines based on Biochemical features
+Classifying Portuguese Wines based on Biochemical features
